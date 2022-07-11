@@ -1,6 +1,7 @@
 ### Leaders
-* [Satya Sasi Vatsal Bokka](mailto:satyasasi.vatsalbokka@owasp.org)
-* [Madhav Reddy Telukutla](mailto:madhav.reddytelukutla@owasp.org)
-* [Sai Likhith Bavisetty](mailto:sai.likhithbavisetty@owasp.org)
-* [Lokeshwar rao Lakhineni](mailto:lokeshwar.raolakhineneni@owasp.org)
-* [Sri Harsha Malla](mailto:sri.harshamalla@owasp.org)
+
+- [B.Satya Sasi Vatsal ](mailto:sasivatsal7122@gmail.com)
+- [B.Sai Likhith ](mailto:likhithbavisetti@gmail.com)
+- [M.Sri Harsha](mailto:mallaharsha66@gmail.com)
+- [T.Madhav Reddy](mailto:madhavreddy00570@gmail.com)
+- [L.Lokeshwar ](mailto:lokeshwarlakhi@gmail.com)
