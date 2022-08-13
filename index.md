@@ -8,31 +8,40 @@ meetup-group: OWASP Vignan Institute of Information and Technology
 
 <img src="./assets/images/owaspviit.png"/>
 
-## Welcome
+## Greetings!!!
 
-Vignan Institute of Information and Technology (VIIT) has been a steady source of highly skilled talent to the nation as well as overseas. A pioneer in engineering education, research and innovation. The team of OWASP Student Chapter, one of the gilt-edged coding society, involves ingenious mind solvers who are eager to make the world a better place to live in with their innovative techniques and discoveries. By successfully organizing many hackathons, tech-talks, workshops and coding nights, we have always strived hard to maintain the coding culture throughout the campus.
+## WHO WE ARE?
 
-## Participation
+Vignan Institute Of Information Technology(VIIT) has always been a constant and steady source in evolving new techiques for the emerging innovative world.
+VIIT is a pioneer in engineering education and research technologies. OWASP VIIT student chapter is a team of ingenious mind solvers who are eager to make
+the world a better place to live in with their innovative techniques and discoveries. Our OWASP team aims to foster a culture of competitiveness,learning and 
+growth.We as a team create an environment that provide an opportunity for our fellow students to showcase their talent, skills and build the foundation of a 
+college club that creates a self-sufficient student community in the future and stays for years in the campus.
 
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
+## WHERE WE HAVE COME FROM?
 
-Chapters are led by local leaders in accordance with the Chapters Policy. Financial contributions should only be made online using the authorized online donation button.
+Our community stands with a Chapter Leader, Chapter Manager, Secretary and the sub-ordinating heads of various departments(Technical,Web-development,
+Designing,Operations and Cloud Computing).Each community member is assigned certain prior roles and responsibilities in organising the events successfully
+We steadily contribute for the growth and development of the chapter. We hereby come and work together productively to fulfill our primary purpose to spread
+awareness about cyber security aiming the development of students.
 
-Everyone is welcome and encouraged to participate in our Projects, Local Chapters, Events, Online Groups, and Community Slack Channel. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be become a member or consider a donation to support our ongoing work.
+## WHAT WE DO?
 
-## Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+We as a team of OWASP VIIT student chapter have successfully been organising hackathons,tech-talks,workshops,coding nights and blind coding.We cluster all the students having great ease towards creative learning,developing technical skills,upgrading innovative learning which help in developing the nation as 
+well as overseas. Our team help you in obtaining new technical skills through the inputs gained in past endeavours.Being a part of this club,you will be able 
+to develop your managerial skills that are crucial and can gain knowledge on new-age technologies.
 
-### Upcoming Events
+## FURTHER MEETUPS
 
-We Have Lots Of Exciting Stuff Coming Up Very Soon ! Stay Tuned To Our Media Channels ... :)
+Upcoming Haps:</br>
+We have lots of exciting and interesting stuff coming up very soon! Stay tuned to our media channels.
 
-## Activities
+## ACTIVITIES
 
-We majorly indulge in sharing our knowledge through our blogs (both on Medium as well as on Blogger) and CTFs, spreading cybersecurity awareness with our weekly news, infographics, quiz, and instagram reels, conduct various events like CTFs, hackathons, webinars, workshops, open-quiz, along with various other cybersecurity events and most importantly learn together and contribute to the open-source community with our projects.
+We majorly engage and indulge in sharing our knowledge on new-age technologies through all our social media platforms and CTFs in spreading cybersecurity
+awareness with our weekly news,magazines,infographics,quiz,webinars and instagram reels.We organise various events in collaboration with other cybersecurity
+student communities and mostly aim to learn together contributing to the open-source community with our further projects.
 
-## Where we've come
-
-Our organization stands with a Chapter Leader, Chapter Manager, Secretary and the sub-ordinating heads of various departments (Technical, Web-development, Design, and Operations). Each member is assigned certain roles and they regularly contribute for the development and growth of the chapter. Together, we work together to come together to fulfil our primary purpose - to spread awareness about cyber security.
 
 ## CONNECT WITH US!
 
