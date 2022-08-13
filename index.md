@@ -33,7 +33,7 @@ to develop your managerial skills that are crucial and can gain knowledge on new
 
 ## FURTHER MEETUPS
 
-Upcoming Haps:</br>
+Upcoming Haps: 
 We have lots of exciting and interesting stuff coming up very soon! Stay tuned to our media channels.
 
 ## ACTIVITIES
