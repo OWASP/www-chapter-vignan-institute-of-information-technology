@@ -27,8 +27,8 @@ awareness about cyber security aiming the development of students.
 
 ## WHAT WE DO?
 
-We as a team of OWASP VIIT student chapter have successfully been organising hackathons,tech-talks,workshops,coding nights and blind coding.We cluster all the students having great ease towards creative learning,developing technical skills,upgrading innovative learning which help in developing the nation as 
-well as overseas. Our team help you in obtaining new technical skills through the inputs gained in past endeavours.Being a part of this club,you will be able 
+We as a team of OWASP VIIT student chapter have successfully been organising hackathons,tech-talks,workshops,coding nights and blind coding.We cluster all the students having great ease towards creative learning, developing technical skills, upgrading innovative learning which help in developing the nation as 
+well as overseas. Our team help you in obtaining new technical skills through the inputs gained in past endeavours.Being a part of this club, you will be able 
 to develop your managerial skills that are crucial and can gain knowledge on new-age technologies.
 
 ## FURTHER MEETUPS
@@ -39,7 +39,7 @@ We have lots of exciting and interesting stuff coming up very soon! Stay tuned t
 ## ACTIVITIES
 
 We majorly engage and indulge in sharing our knowledge on new-age technologies through all our social media platforms and CTFs in spreading cybersecurity
-awareness with our weekly-news,magazines,infographics,quiz,webinars and instagram reels.We organise various events in collaboration with other cybersecurity
+awareness with our weekly-news, magazines, infographics, quiz, webinars and instagram reels.We organise various events in collaboration with other cybersecurity
 student communities and mostly aim to learn together contributing to the open-source community with our further projects.
 
 
