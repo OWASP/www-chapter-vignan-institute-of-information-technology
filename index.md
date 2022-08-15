@@ -21,7 +21,7 @@ college club that creates a self-sufficient student community in the future and 
 ## WHERE WE HAVE COME FROM?
 
 Our community stands with a Chapter Leader, Chapter Manager, Secretary and the sub-ordinating heads of various departments(Technical,Web-development,
-Designing,Operations and Cloud Computing).Each community member is assigned certain prior roles and responsibilities in organising the events successfully
+Designing,Operations and Cloud Computing).Each community member is assigned certain prior roles and responsibilities in organising the events successfully.
 We steadily contribute for the growth and development of the chapter. We hereby come and work together productively to fulfill our primary purpose to spread
 awareness about cyber security aiming the development of students.
 
