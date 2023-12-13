@@ -3,6 +3,7 @@ layout: col-sidebar
 title: OWASP Vignan Institute of Information and Technology
 tags: OWASP VIIT
 region: Asia
+country: India
 meetup-group: OWASP Vignan Institute of Information and Technology
 ---
 
